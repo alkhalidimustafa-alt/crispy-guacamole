@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>من مصطفى إلى براء ❤️</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>هلا حبيبي براء 🌚♥️ مرتي  ❤️</h1>
+        <p>أنا مصطفى، وسويتلك هذا الموقع مخصوص إلك  🌚♥️</p>
+        <button id="startBtn">اضغطي هنا يا قلبي 💌</button>
+        
+        <div id="questions" class="hidden">
+            <h2>الأسئلة 💞</h2>
+            <ol>
+                <li>أول مرة شفتيني، شنو كان إحساسك؟ 😍</li>
+                <li>شنو أكثر شي تحبّينه بيه؟ 🥰</li>
+                <li>إذا راح نطلع سوا، وين تتمنين نروح؟ 💫</li>
+                <li>الك ؟ 💍</li>
+            </ol>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
